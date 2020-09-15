@@ -13,7 +13,7 @@
 				<a href="index.php">
 				<img src="views/images/smiley.jpg" alt="Sourire">
 				</a>
-				Un site de Bonnes Nouvelles
+				Un site de Bonnes Nouvelles on Azure
 			</h1>
 			<p class="sous-titre">
 				<strong>Institut Paul Lambin</strong>
