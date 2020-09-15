@@ -17,6 +17,6 @@
 			</h1>
 			<p class="sous-titre">
 				<strong>Institut Paul Lambin</strong>
-				:: 1ère année du baccalauréat en informatique
+				:: 1ère année du baccalauréat en info
 			</p>
 		</div><!-- entete -->
